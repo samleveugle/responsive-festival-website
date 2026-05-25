@@ -1,9 +1,15 @@
 Summer Madness Festival Website
 
-Dit project heb ik gemaakt tijdens mijn opleiding Websiteproductie.
+Single-page festival website created during my Website Production course.
 
-Functionaliteit: Eén pagina festivalwebsite met banner, navigatiebalk en achtergrondafbeeldingen. 
-Ticket- en campsite-secties met interactieve knoppen. Informatiesecties met iconen, partnerlogo’s en nieuwsbriefinschrijving. 
-Responsive layout met flexbox. Footer met social media iconen.
+Features:
+- Banner and navigation bar
+- Ticket and campsite sections with interactive buttons
+- Information sections with icons, partner logos, and newsletter signup
+- Responsive layout using Flexbox
+- Footer with social media icons
 
-Technologie: HTML (semantische structuur) CSS (enkel externe CSS, incl. flexbox) Bootstrap Icons
+Technologies:
+- HTML (semantic structure)
+- CSS (external stylesheet with Flexbox)
+- Bootstrap Icons
